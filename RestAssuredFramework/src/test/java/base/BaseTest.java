@@ -24,6 +24,7 @@ public class BaseTest {
                 .expectStatusCode(200)      
                 .expectContentType(ContentType.JSON)
                 .build();        
+
     }
 
     
