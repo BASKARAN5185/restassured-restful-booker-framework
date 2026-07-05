@@ -1,4 +1,4 @@
-package com.company.api;
+package tests;
 
 // rest assured imports given, when, then, equals, etc.
 import static io.restassured.RestAssured.given;
