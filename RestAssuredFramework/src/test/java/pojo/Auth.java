@@ -1,4 +1,4 @@
-package payloads;
+package pojo;
 
 public class Auth {
     private String username;
